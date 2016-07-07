@@ -1,7 +1,7 @@
 # 3DVT Embedding Guide
 This article serves as a technical guide for embedding the [3DVT Viewer](https://v.3dvt.com.au/scottys) in a website.
 
-Looking for a working example? Check out the [3DVT Embed Demo](https://v.3dvt.com.au/embed-demo.html)
+Looking for a working example? Check out the [3DVT Embed Demo](https://www.3dvt.com.au/embed-demo.html)
 
 ## Terms
 
