@@ -27,6 +27,14 @@ If my tour_id was equal to "scottys", we would use the URL
 https://v.3dvt.com.au/scottys/
 ```
 
+If your tour has multiple scenes, you can specify a default scene to load by appending the scene name to the URL, prepended by a #. 
+If no scene name is appended, the first scene will load as a default. The scene name should be URL encoded, and is case sensitive.
+
+```
+https://v.3dvt.com.au/scottys/#Bridgestone%20Tyres%20Front
+```
+
+
 You can style your iframe using standard CSS where required.
 
 ```html
