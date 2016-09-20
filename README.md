@@ -119,6 +119,7 @@ Set auto rotate to either "on", "off" or "auto" (as set by 3DVT)
 ```javascript
 var config = {
     tour: "scottys",
+    scene: "Front",
     container: "3dvt-embed",
     width: "720px",
     height: "480px",
