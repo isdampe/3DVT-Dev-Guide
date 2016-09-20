@@ -93,6 +93,10 @@ tour (string)
 default: "default"
 The tour_id you want to embed, as provided by 3DVT
 
+scene (string)
+default: false
+The default scene name you wish to load. Case sensitive. Do not URL encode scene name here.
+
 container (string)
 default: "3dvt-embed"
 The id of the HTML element where the tour will be injected
